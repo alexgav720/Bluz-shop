@@ -1,0 +1,147 @@
+.product {
+
+    width: 950px;
+    height: 423px;
+
+    background: #191919;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+/* Group 21 */
+.current {
+
+    width: 485px;
+    height: 375px;
+    background-size: cover;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.imagesList {
+    height: 375px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+
+    width: 90px;
+    height: 90px;
+
+    background-size: cover;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+/* Group 22 */
+
+.info {
+    padding: 10px;
+    width: 386px;
+    height: 375px;
+    position: relative;
+}
+
+/* Bouncing sneaker Hermès */
+
+.title {
+
+    width: 100%;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #F6F6F7;
+}
+
+.price {
+    width: 100%;
+    height: 24px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #F6F6F7;
+    margin-top: 15px;
+}
+
+/* button */
+.add {
+
+    width: 133px;
+    height: 38px;
+
+    background: #6C3EB8;
+    border-radius: 6px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+.favorite {
+
+    width: 133px;
+    height: 38px;
+
+    background: #6C3EB8;
+    border-radius: 6px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #FFFFFF;
+    margin-top: 15px;
+
+}
+
+.description{
+
+    width: 100%;
+    
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    
+    color: #B8B8B8;
+    margin-top: 15px;
+
+}
+
+
+/* Find in a store */
+
+.bottom{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}

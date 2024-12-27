@@ -1,0 +1,98 @@
+.wrapper {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    top: 0px;
+    right: 0px;
+    z-index: 2;
+    height: 100%;
+    width: 320px;
+    padding: 20px;
+    background-color: rgba(25, 25, 25, 1);
+}
+
+
+/* Register */
+.title {
+
+    width: 63px;
+    height: 18px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #F6F6F7;
+}
+
+
+
+/* Group 23 */
+.group {
+
+    width: 272px;
+    margin-top: 25px;
+}
+
+/* Rectangle 26 */
+.group input {
+
+    width: 272px;
+    height: 40px;
+
+    background: #212123;
+    border-radius: 8px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 16px;
+    /* identical to box height */
+
+    color: #F6F6F7;
+}
+
+.group input:focus {
+    outline: none;
+    box-shadow: 0px 0px 5px #6C3EB8;
+    border:1px solid #6C3EB8;
+}
+
+
+/* 4115230_cancel_close_delete_icon 1 */
+.close {
+
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    top: 20px;
+    right: 20px;
+}
+
+/* button */
+.submit {
+
+    width: 272px;
+    height: 38px;
+    background: #6C3EB8;
+    border-radius: 6px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+    margin-top: 15px;
+}
+
+.link{
+    color: #576067;
+    margin-top: 8px;
+}

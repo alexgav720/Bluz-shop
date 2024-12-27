@@ -1,0 +1,55 @@
+.sidebar {
+    /* position: absolute; */
+    width: 304px;
+    height: 423px;
+    padding: 20px;
+}
+
+
+/* Menu */
+.menu {
+
+    width: 107px;
+    height: 243px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    margin-top: 20px;
+    color: #576067;
+}
+
+/* .menu a{
+    color: #576067;
+} */
+
+.active{
+    color: rgba(139, 87, 198, 1);
+}
+
+.menu li{
+    margin-top: 15px;
+}
+/* CATEGORIES */
+.title {
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    
+    color: #FFFFFF;
+}
+
+.link {
+    margin-right: 15px;
+    color: #576067;
+}
+
+.footer {
+    position: relative;
+    bottom: -75px;
+    left: 0px;
+}

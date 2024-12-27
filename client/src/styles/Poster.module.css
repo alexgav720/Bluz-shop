@@ -1,0 +1,109 @@
+/* Box */
+.home {
+    width: 950px;
+    height: 423px;
+    padding: 20px;
+}
+
+
+
+/* Rectangle 11 */
+
+/* .text{
+display: flex;
+flex-direction: column;
+
+} */
+
+
+/* Group 4 */
+
+.product {
+    width: 481px;
+    height: 183px;
+    display: flex;
+}
+
+
+
+
+/* the bestseller of 2022 */
+.subtitle {
+    width: 212px;
+    height: 20px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+    text-transform: uppercase;
+
+    color: #616E74;
+}
+
+
+
+/* LENNON r2d2 with NVIDIA 5090 TI */
+.head{
+    width: 481px;
+    height: 93px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 42px;
+    line-height: 51px;
+    text-transform: uppercase;
+    
+    color: #F6F6F7;
+}
+
+/* Shop Now */
+.button {
+    width: 125px;
+    height: 38px;
+
+    background: #6C3EB8;
+    border-radius: 6px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    /* identical to box height */
+
+    color: #FFFFFF;
+}
+
+
+
+/* BIG SALE 20% */
+.title {
+    width: 888px;
+    height: 145px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 119px;
+    line-height: 145px;
+    /* identical to box height */
+    text-transform: uppercase;
+
+    color: #212123;
+}
+
+/* image 1 */
+.image{
+    position: relative;
+    right: -150px;
+    top: -120px;
+    width: 462px;
+    height: 359px;  
+
+}
